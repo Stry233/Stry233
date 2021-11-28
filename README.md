@@ -1,6 +1,7 @@
 ### Hi there 👋
 最近超级忙，有事请联系电邮，谢谢ψ(｀∇´)ψ<br>
-contact me at **cheny63@rpi.edu**, thanks
+contact me at **cheny63@rpi.edu**, thanks<br>
+
 ![](https://github-readme-stats.vercel.app/api?username=Stry233)
 <!--
 **Stry233/Stry233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

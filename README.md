@@ -1,5 +1,5 @@
 ### Hi there 👋
-最近超级忙，有事请联系电邮，谢谢ψ(｀∇´)ψ
+最近超级忙，有事请联系电邮，谢谢ψ(｀∇´)ψ（\par）
 contact me at **cheny63@rpi.edu**, thanks
 ![](https://github-readme-stats.vercel.app/api?username=Stry233)
 <!--

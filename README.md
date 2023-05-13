@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/71170895/139672905-376c8e9a-1399-4200-8d6d-8df97f7c0d22.gif" alt="Hello there!">
-</p>
+
 
 <h1 align="center">Hi there 👋, I'm Yuetian!</h1>
 <h3 align="center">A passionate developer who's currently super busy!</h3>

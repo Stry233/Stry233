@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Stry233&show_icons=true&theme=tokyonight" alt="GitHub Stats">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=stry233&theme=default" alt="GitHub Stats">
 </p>
 
 

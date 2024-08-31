@@ -1,8 +1,9 @@
-
-
 <h1 align="center">Hi there 👋, I'm Yuetian!</h1>
-<h3 align="center">A passionate developer who's currently super busy!</h3>
-<p align="center">If you need to reach me, please send an email to <b>cheny63@rpi.edu</b>. Thank you! 💌</p>
+
+<h3 align="center">A PhD student at TruSe Lab, Purdue University <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Purdue_Boilermakers_logo.svg/592px-Purdue_Boilermakers_logo.svg.png?20200422051240" alt="Purdue" height="15"></h3>
+
+
+<p align="center">If you need to reach me, please send an email to <b>chen5264 [at] purdue [dot] edu</b>. Thank you! 💌</p>
 
 <p align="center">
   <a href="https://stry233.github.io/" target="_blank">
@@ -17,18 +18,3 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=stry233&theme=default" alt="GitHub Stats">
 </p>
 
-
-<!--
-**Stry233/Stry233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

@@ -1,12 +1,7 @@
-<br>
-
 <h1 align="center">Yuetian Chen</h1>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=15&duration=4500&pause=2000&color=2D3748&center=true&vCenter=true&width=500&height=30&lines=PhD+Candidate+@+Purdue+TruSe+Lab;Security+Researcher;Building+Trustworthy+Systems;Making+LLMs+Safer;404:+Sleep+not+found;ᕕ(%20ᐛ%20)ᕗ;🛡️🔬🎯⚡🌌" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=15&duration=4500&pause=2000&color=2D3748&center=true&vCenter=true&width=500&height=30&lines=PhD+Candidate+@+Purdue+TruSe+Lab;Security+Researcher;Building+Trustworthy+Systems;Making+LLMs+Safer;404:+Sleep+not+found;ᕕ(ᐛ)ᕗ;🛡️🔬🎯⚡🌌" alt="Typing SVG" />
 </p>
-
-<br>
 
 <p align="center">
   <a href="https://stry233.github.io/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Web-%2312100E.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/></a>
